@@ -7,9 +7,14 @@
 * [--- 版本变迁 ---](startpoint.md)
 
 * [--- 公共事件 ---](event/README.md)
+  * [问题疫苗事件](event/yimiao.md)
+  * [大学生魏则西之死](event/weizexi.md)
   * [雷洋事件](event/leiyang.md)
+  * [乌坎林祖恋受贿事件](event/linzulian.md)
   * [南海仲裁事件](event/nanhai.md)
   * [炎黄易主事件](event/yanhuang.md)
+  * [肯德基滚出中国](event/kfc.md)
+  * [邢台泄洪事件](event/xingtai.md)
 
 * [--- 历史 ---](history/README.md)
 
