@@ -25,6 +25,7 @@
 * [--- 诗歌 ---](poetry/README.md)
 
 * [--- 漫画 ---](cartoon/README.md)
+  * [口炮](cartoon/koupao.md)
 
 
 <!-- * [Part I](part1/README.md)
