@@ -8,5 +8,6 @@
 * [炎黄易主事件](yanhuang.md)
 * [肯德基滚出中国](kfc.md)
 * [邢台泄洪事件](xingtai.md)
+* [连云港核废料事件](lianyungang.md)
 
 # 2017...

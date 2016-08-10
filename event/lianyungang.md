@@ -38,6 +38,10 @@
 
 国内核电站分布图：![核电地图](../imgs/hedianzhan.jpg)
 
+六个严禁：![严禁](../imgs/lianyungang_6yj.jpg)
+
+真实的谎言：![呵呵](../imgs/lianyungang_lie.jpg)
+
 ### 后续追踪
 
 ...
