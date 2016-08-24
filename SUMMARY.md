@@ -20,6 +20,7 @@
 * [--- 历史 ---](history/README.md)
 
 * [--- 常识 ---](commonsense/README.md)
+  * [户口](commonsense/hukou.md)
 
 * [--- 人物 ---](figure/README.md)
 
@@ -27,6 +28,10 @@
 
 * [--- 漫画 ---](cartoon/README.md)
   * [口炮](cartoon/koupao.md)
+
+* [-- 瓷国笑话 --](joke/README.md)
+
+* [-- 瓷国寓言 --](fable/README.md)
 
 
 <!-- * [Part I](part1/README.md)
