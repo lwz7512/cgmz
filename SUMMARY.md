@@ -30,8 +30,14 @@
   * [口炮](cartoon/koupao.md)
 
 * [-- 瓷国笑话 --](joke/README.md)
+  * [看病](joke/kanbing.md)
+  * [神秘的狗](joke/gou.md)
+  * [无辜的东莞女](joke/dongguannv.md)
+  * [老鼠吹牛](joke/laoshu.md)
 
 * [-- 瓷国寓言 --](fable/README.md)
+  * [可怜的羊](fable/yang.md)
+  * [小镇上的珠宝](fable/zhubao.md)
 
 
 <!-- * [Part I](part1/README.md)
