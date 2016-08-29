@@ -18,6 +18,7 @@
   * [连云港核废料事件](event/lianyungang.md)
 
 * [--- 历史 ---](history/README.md)
+  * [百年宪政片花](history/pianhua.md)
 
 * [--- 常识 ---](commonsense/README.md)
   * [户口](commonsense/hukou.md)
@@ -38,6 +39,7 @@
 * [-- 瓷国寓言 --](fable/README.md)
   * [可怜的羊](fable/yang.md)
   * [小镇上的珠宝](fable/zhubao.md)
+  * [新警察的故事](fable/xinjingcha.md)
 
 
 <!-- * [Part I](part1/README.md)
