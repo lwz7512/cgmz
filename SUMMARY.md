@@ -35,6 +35,7 @@
   * [神秘的狗](joke/gou.md)
   * [无辜的东莞女](joke/dongguannv.md)
   * [老鼠吹牛](joke/laoshu.md)
+  * [怀孕了](joke/huaiyun.md)
 
 * [-- 瓷国寓言 --](fable/README.md)
   * [可怜的羊](fable/yang.md)
