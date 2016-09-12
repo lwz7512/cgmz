@@ -16,6 +16,7 @@
   * [肯德基滚出中国](event/kfc.md)
   * [邢台泄洪事件](event/xingtai.md)
   * [连云港核废料事件](event/lianyungang.md)
+  * [杨改兰杀子事件](event/yanggailan.md)
 
 * [--- 历史 ---](history/README.md)
   * [百年宪政片花](history/pianhua.md)
