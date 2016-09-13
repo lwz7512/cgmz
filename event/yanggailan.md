@@ -92,7 +92,7 @@
 
 雄文：盛世中的蝼蚁
 
-图片版：![盛世中的蝼蚁](../imgs/shengshi_louyi.jpg)
+图片版：![盛世中的蝼蚁](../longimg/shengshi_louyi.jpg)
 
 ### 史官点评
 

@@ -1,8 +1,8 @@
 # Summary
 
-* [--- 前言 ---](README.md)
+* [前言](README.md)
 
-* [--- 为什么 ---](why.md)
+* [为什么](why.md)
 
 * [--- 版本变迁 ---](startpoint.md)
 
@@ -27,6 +27,7 @@
 * [--- 人物 ---](figure/README.md)
 
 * [--- 诗歌 ---](poetry/README.md)
+  * [西湖的水我的泪](poetry/xihudeshui.md)
 
 * [--- 漫画 ---](cartoon/README.md)
   * [口炮](cartoon/koupao.md)
@@ -36,7 +37,7 @@
   * [神秘的狗](joke/gou.md)
   * [无辜的东莞女](joke/dongguannv.md)
   * [老鼠吹牛](joke/laoshu.md)
-  * [怀孕了](joke/huaiyun.md)
+  * [怀孕了](joke/huaiyunle.md)
 
 * [-- 瓷国寓言 --](fable/README.md)
   * [可怜的羊](fable/yang.md)
