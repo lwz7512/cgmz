@@ -27,7 +27,7 @@ function fileHandler(root, fileStat, next) {
       var a = $(e);
       var href = a.attr('href');
       if(!href) return;
-
+      // 以 / 结尾的url
       if((/\/$/).test(href)) {
         // console.log('test: '+href);
         a.attr('href', href+'index.html')
@@ -57,14 +57,16 @@ function errorsHandler(root, nodeStatsArray, next) {
 }
 
 function endHandler() {
+  console.log('>>>end of file process!');
 
   ncp('_book/', '/Users/liwenzhi/mobile/cgmz/www', function (err) {
    if (err) {
      return console.error(err);
    }
-   console.log('done!');
+   console.log('all done!');
   });
 
+  console.log('>>> start copy to mobile www...');
 
   console.log("all done");
 }
