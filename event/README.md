@@ -10,5 +10,6 @@
 * [邢台泄洪事件](xingtai.md)
 * [连云港核废料事件](lianyungang.md)
 * [杨改兰杀子事件](yanggailan.md)
+* [高陵垃圾焚烧厂事件](gaoling.md)
 
 # 2017...
