@@ -18,6 +18,7 @@
   * [连云港核废料事件](event/lianyungang.md)
   * [杨改兰杀子事件](event/yanggailan.md)
   * [高陵垃圾焚烧厂事件](event/gaoling.md)
+  * [贾敬龙案件](event/jiajinglong.md)
 
 * [--- 历史 ---](history/README.md)
   * [百年宪政片花](history/pianhua.md)
