@@ -68,5 +68,4 @@ function endHandler() {
 
   console.log('>>> start copy to mobile www...');
 
-  console.log("all done");
 }
